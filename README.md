@@ -24,3 +24,5 @@ resource=download
 •	Sumain – Question 3
 •	Jennifer – Question 4
 
+# Description
+This project utilizes Python, Pandas, and Matplotlib to generate tables and figures from salaries of data science from 2020 to 2024.
