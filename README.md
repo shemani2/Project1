@@ -21,6 +21,6 @@ This dataset is a CSV file that encompasses a collection of data science salary 
 
 # Analysis
 Work Environments
-- The job titles we had observed in the top 5 job titles (data analysts, data scientists, data engineers, analytics engineers, and machine learning engineers) showed there is no statistical difference in salaries and work enviornments.
+- The job titles we had observed in the top 5 job titles (data analysts, data scientists, data engineers, analytics engineers, and machine learning engineers) showed there is no statistical difference in salaries and work environments.
 
 # Summary
