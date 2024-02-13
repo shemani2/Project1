@@ -18,6 +18,11 @@ This project utilizes Python, Pandas, and Matplotlib to generate tables and figu
 This dataset is a CSV file that encompasses a collection of data science salary from 2020 to 2024, however we are ommitting year 2024. In this dataset, not only salaries are collected but the details of each job titles and their location, experience level, company size, and work models.
 
 # Analysis
+Work Experience level
+- As predicted, positive increase on average salary with the experience level goes up reflect on top 5 job titles. 
+- Job title - Data Analyst shows slower increase compares to the other top job titles. 
+- Job title - Data Scientist shows doubled salary from Entry level to Executive level.
+
 Work Environments
 - The job titles we had observed in the top 5 job titles (data analysts, data scientists, data engineers, analytics engineers, and machine learning engineers) showed there is no statistical difference in salaries and work enviornments.
 
