@@ -30,7 +30,10 @@ This project utilizes Python, Pandas, and Matplotlib to generate tables and figu
 4.	Does work environment (hybrid, on-site, and remote) impact on salary?
 
 # Dataset Citation 
-- [Data Science Salaries 2024](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries)
+- Islam, Sazidul (2024). [Data Science Salaries 2024 [Data Set]](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries)
+
+# Describing the Datasets
+This dataset is a CSV file that encompasses a collection of data science salary from 2020 to 2024, however we are ommitting year 2024. In this dataset, not only salaries are collected but the details of each job titles and their location, experience level, company size, and work models.
 
 # Analysis
 Work Environments
